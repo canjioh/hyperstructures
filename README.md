@@ -1,5 +1,5 @@
-# Hyperstructures
-We want to find a non-Desargues finite geometry in order to provide the **K**-vetor space associated with a hyperfield multiplicative operation. See Remark 3.12 in the manuscript "[The hyperring of adèle classes](https://www.sciencedirect.com/science/article/pii/S0022314X10002180)" by Alain Connes and Caterina Consani.
+# Hyperstructures and Desarguesian geometry
+We want to find a non-Desarguesian finite geometry in order to provide the **K**-vetor space associated with a hyperfield multiplicative operation. See Remark 3.12 in the manuscript "[The hyperring of adèle classes](https://www.sciencedirect.com/science/article/pii/S0022314X10002180)" by Alain Connes and Caterina Consani.
 
 To do that, we want to find a number $n>8$, for which $(x,y)\to(x-y)$ is a bijection between $F_p\times F_p$ and $F_p$ (actually we should exclude the diagonal and the zero element respectively).
 
