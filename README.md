@@ -1,1 +1,1 @@
-# hyperstructures
+# Hyperstructures
